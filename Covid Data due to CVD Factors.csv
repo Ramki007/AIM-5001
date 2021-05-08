@@ -1,0 +1,273 @@
+﻿Author,Date,Study,Setting,Country,PatientsGroup,Number,Age,Male,HTN,,DM,CVD,Outcome,NOS (0~8)
+Argenziano et al.1,"01.03.20-
+05.04.20",Retrospective single-center observational,"New York-Presbyterian / Columbia University Irving Medical Center, New York",USA,"In-hospital based
+(Case series)",850,"63
+(50-
+75)",511,525,,333,115,Severe   COVID-19: need ICU care,7
+Ashraf et al.2,"22.02.20-
+03.05.20","Retrospective single-center
+observational","Tehran University of Medical Sciences,
+Tehran",Iran,"In-hospital based
+(Case series)",100,"58
+(48-
+68)",64,26,,26,19,Severe   COVID-19: need ICU care,4
+Bhargava A et al.3,"08.03-20-
+08.04.20",Retrospective single-center observational,"Ascension St John Hospital, Michigan",USA,In-hospital based     (Case series),197,60.6 ± 16.2,103,138,,73,29,Severe   COVID-19: respiratory distress,5
+Bode B et al.4,"01.03.20-
+04.06.20","Retrospective single-center
+observational",88 U.S. hospitals,USA,"In-hospital based
+(Case series)",1122,62.6,624,,,451,,Death,5
+Chen M et al.5,"01.01.20-
+15.02.20","Retrospective
+single-center observational","No. 7 Hospital, Hubei",China,"In-hospital based
+(Case series)",123,57.8,61,41,,14,15,Death,6
+Chen Q et al.6,"01.01.20-
+11.03.20","Retrospective
+single-center observational","Taizhou Public Health Medical Center,
+Zhejiang",China,"In-hospital based
+(Case series)",145,47.5 ± 14.6,79,22,,14,1,Severe   COVID-19: respiratory distress,7
+Chen T et al.7,"13.01.20-
+12.02.20","Retrospective single-center
+observational","Tongji Hospital, Hubei",China,"In-hospital based
+(Case series)",274,"62
+(44.0-
+70.0)",171,93,,47,23,Death,6
+Chen X et al.8,"23.01.20-
+14.02.20","Retrospective multi-center
+observational","First Hospital of
+Changsha and Loudi
+Central Hospital, Hunan",China,"In-hospital based
+(Case series)",291,"46
+(34-
+59)",145,39,,22,12,"Severe   COVID-19: respiratory    distress
+or need ICU care",7
+Covino M et al.9,"01.03.20-
+31.03.20","Retrospective single-center
+observational","Agostino Gemelli University Policlinic,
+Rome",Italy,"In-hospital based
+(Case series)",69,"84
+(82-
+89)",37,41,,9,21,Death,5
+Docherty   AB   et al.10,"06.02.20-
+19.04.20",Prospective multi-center observational,"208 acute care hospitals in England, Scotland, and Wales",UK,"In-hospital based
+(Cohort study)",20133,"72.9
+(58-
+82)",12068,,,4949,5469,Death,7
+Du R et al.11,"25.12.19-
+07.02.20",Prospective single-center observational,"Wuhan Pulmonary Hospital, Hubei",China,"In-hospital based
+(Cohort study)",179,"57.6
+±13.7",97,58,,33,29,Death,6
+Feng X et al.12,"23.01.20-
+22.02.20","Prospective
+single-center observational","Wuhan Union Hospital, Hubei",China,"In-hospital based
+(Cohort study)",114,"63.96
+±13.4",71,62,,39,31,Severe   COVID-19: respiratory distress,6
+Feng Z et al.13,17.01.20-,Retrospective,Third Xiangya Hospital,China,In-hospital,141,44,72,21,,8,3,Severe   COVID-19:,7
+,43832,single-center observational,"of Central South University, Hunan",,"based
+(Case series)",,"(34-
+55)",,,,,,respiratory    distress or need ICU care,
+Fu L et al.14,"01.01.20-
+30.01.20",Retrospective single-center observational,"Union Hospital of Huazhong University, Hubei",China,"In-hospital based
+(Case series)",200,"58.2
+±12.3",99,101,,137,16,Death,5
+Gao C et al.15,"05.02.20-
+15.03.20","Retrospective single-center
+observational","Huo Shen Shan Hospital, Hubei",China,"In-hospital based
+(Case series)",2877,57.9,1470,850,,387,221,"Severe   COVID-19: respiratory    distress
+or need ICU care",7
+Guan W et al.16,"11.12.19-
+31.01.20",Retrospective multi-center observational,575 hospitals,China,"In-hospital based
+(Case series)",1590,"48.9
+±16.3",904,269,,130,59,Death,7
+Guan WJ et al.17,"12.11.19-
+31.01.20","Prospective
+multi-center observational",552 hospitals in 30 provinces in mainland,China,"In-hospital based
+(Cohort study)",1099,"47.0
+(35-
+58)",637,165,,81,27,Severe   COVID-19: need ICU care,7
+Grasselli G et al.18,"20.02.20-
+18.03.20",Retrospective multi-center observational,"Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico,
+Milan",Italy,"In-hospital based
+(Case series)",203,<50,166,25,,5,5,Death,7
+,,,,,,427,50~60,355,121,,40,43,,
+,,,,,,961,>60,783,363,,135,175,,
+Hou W et al.19,"21.01.20-
+09.03.20","Retrospective single-center
+observational","Beijing You'an Hospital, Capital Medical
+University, Beijing",China,"In-hospital based
+(Cohort study)",101,50.9 ± 20.1,44,21,,6,11,Severe   COVID-19: need ICU care,7
+Hu L et al.20,"08.01.20-
+20.02.20","Retrospective
+single-center observational","Tianyou Hospital, Shanghai",China,"In-hospital based
+(Case series)",323,"61
+(23-
+91)",166,105,,47,34,"Severe   COVID-19:
+respiratory    distress or need ICU care",7
+Huang J et al.21,"25.01.20-
+24.03.20","Retrospective
+single-center observational","Third People's Hospital of Yichang, Hubei",China,"In-hospital based
+(Cohort study)",344,52.9 ± 16.8,188,78,,38,18,Severe   COVID-19: respiratory distress,7
+Huang C et al.22,"16.12.19-
+02.01.20","Prospective single-center
+observational","JinYintan Hospital, Hubei",China,"In-hospital based
+(Case series)",41,"49.0
+(41.0-
+58.0)",30,6,,8,6,Severe   COVID-19: need ICU care,7
+Hur K et al.23,"01.03.20-
+08.04.20","Retrospective single-center
+observational","Northwestern-affiliated health care centers,
+Chicago",USA,"In-hospital based
+(Case series)",486,59,271,267,,160,111,Severe   COVID-19: need ICU care,6
+Jiang et al.24,"23.01.20-
+16.02-20","Retrospective single-center
+observational","Wuxi Fifth People’s Hospital, Jiangsu",China,"In-hospital based
+(Case series)",55,"45
+(27-
+60)",27,17,,9,3,Severe   COVID-19: respiratory distress,5
+Li Q et al.25,"20.01.20-
+29.02.20",Retrospective single-center observational,"Shanghai Public Health Clinical Center, Shanghai",China,"In-hospital based
+(Case series)",325,"51
+(36-
+64)",167,78,,30,18,Severe   COVID-19: respiratory    distress or need ICU care,7
+Liu J et al.26,"13.01.20-
+31.01.20","Prospective single-center
+observational","Beijing Ditan Hospital, Beijing",China,"In-hospital based
+(Case series)",61,"40  (1-
+86)",31,12,,5,1,Severe   COVID-19: need ICU care,7
+Liu W et al.27,"30.12.19-
+01.15.20","Retrospective multi-center
+observational","Three tertiary hospitals, Hubei",China,"In-hospital based
+(Case series)",78,"38.0
+(33-
+57)",39,8,,5,,"Severe   COVID-19: respiratory    distress
+or need ICU care",5
+Luo X et al.28,"30.01.20-
+25.02.20","Retrospective single-center
+observational","RenmIn-hospital    of Wuhan university,
+Hubei",China,"In-hospital based
+(Case series)",403,"56
+(39-
+68)",193,113,,57,36,Death,6
+Ma KL et al.29,"21.01.20-
+02.03.20",Retrospective single-center observational,"Yongchuan Hospital of Chongqing Medical University, Chongqing",China,"In-hospital based
+(Cohort study)",84,"48
+(42.3-
+62.5)",48,12,,10,5,Severe   COVID-19: respiratory distress,7
+Nikpouraghdam M et al.30,"19.02.20-
+15.04.20","Retrospective single-center
+observational","Baqiyatallah Hospital, Tehran",Iran,"In-hospital based
+(Case series)",2964,"56
+(46-
+65)",1955,59,,113,37,Death,7
+Petrilli et al.31,"01.03.20-
+08.04.20",Prospective multi-center observational,"NYU Langone Health, New York",USA,"In-hospital only
+(Cohort study)",2729,"63
+(51-
+74)",1672,1693,,950,602,Severe   COVID-19: need ICU care,7
+Qi D et al.32,"19.01.20-
+16.02.20",Retrospective multi-center observational,"Qianjiang central,
+Chongqing three gorges central and Chongqing public health medical
+center, Chongquing",China,"In-hospital based
+(Case series)",267,"48
+(20-
+80)",149,20,,26,13,Severe   COVID-19: respiratory    distress or need ICU care,6
+Richardson et al.33,"03.04.20-
+04.04.20","Retrospective multi-center
+observational","12 hospitals within the Northwell Health
+system, New York",USA,"In-hospital based
+(Case series)",5700,"63
+(52-
+75)",3437,3026,,1808,595,Death,7
+Rossi et al.34,"27.02.20-
+02.04.20","Prospective multi-center
+observational",Province of Reggio Emilia,Italy,"In-hospital only
+(Cohort study)",1075,"70.4
+±15.1",657,280,,185,115,Death,7
+Russo V et al.35,"01.02.20-
+31.04.20",Retrospective single-center observational,Five Italian Hospitals,Italy,"In-hospital based
+(Case series)",192,67.7,115,111,,42,26,Death,6
+Shang W et al.36,"16.01.28-
+28.02.20","Retrospective single-center
+observational","Wuhan Forth Hospital, Hubei",China,"In-hospital based
+(Case series)",443,"56
+(43-
+66)",220,131,,63,44,"Severe   COVID-19: respiratory    distress
+or need ICU care",6
+Shi Y et al.37,"01.01.20-
+17.02.20",Retrospective multi-center observational,Zhejiang Province of China,China,"In-hospital based
+(Case series)",487,"46
+±18.0",259,99,,29,11,Severe   COVID-19: respiratory distress,7
+Wan S et al.38,"23.01.20-
+08.02.20","Retrospective
+single-center observational","Chongqing University
+Three Gorges Hospital, Chongqing",China,"In-hospital based
+(Case series)",135,"47
+(36-
+55)",73,13,,12,7,"Severe   COVID-19:
+respiratory    distress or need ICU care",7
+Wang K et al.39,"26.01.20-
+05.02.20","Retrospective
+single-center observational","Huazhong University of
+Science and Technology, Hubei",China,"In-hospital based
+(Case series)",548,60.2,279,166,,83,34,Death,5
+Wang L et al.40,01.01.20-,Retrospective,RenmIn-hospital    of,China,In-hospital,339,69,166,138,,54,53,Death,5
+,43984,single-center observational,"Wuhan university, Hubei",,"based
+(Case series)",,"(65-
+76)",,,,,,,
+Wang X et al.41,"03.02.20-
+21.02.20",Prospective single-center observational,"Tongji Hospital, Hubei",China,"In-hospital based
+(Cohort study)",131,"49
+(36-
+62)",59,4,,2,3,Severe   COVID-19: respiratory distress,7
+Wang Y et al.42,"01.01.20-
+01.02.20","Retrospective single-center
+observational","Central Hospital of Wuhan, Hubei",China,"In-hospital based
+(Case series)",110,"46.9
+±17.6",48,23,,15,,Severe   COVID-19: respiratory distress,6
+Wang D et al.43,"01.01.20-
+28.01.20",Retrospective single-center observational,"Zhongnan Hospital of Wuhan University, Hubei",China,"In-hospital based
+(Case series)",138,"56.0
+(42-
+68)",75,43,,14,20,Severe   COVID-19: need ICU care,6
+Wang Z et al.44,"16.01.20-
+29.01.20","Retrospective
+single-center observational","Wuhan Union Hospital, Hubei",China,"In-hospital based
+(Case series)",69,"42.0
+(35-
+62)",32,9,,7,8,Severe   COVID-19: respiratory distress,6
+Xu B et al.45,"26.12.19-
+01.03.20",Retrospective single-center observational,"Hubei Provincial Hospital of traditional Chinese and Western
+medicine, Hubei",China,"In-hospital based
+(Case series)",187,"62
+(48.5-
+71)",103,50,,,19,Death,7
+Xu PP et al.46,"10.01.20-
+13.03.20","Retrospective multi-center
+observational",16 tertiary hospitals,China,"In-hospital based
+(Case series)",703,46.1 ± 15.2,382,118,,64,45,Death,7
+Yadaw AS et al.47,-06.04.20,"Prospective
+multi-center observational","Mount Sinai Hospital, New York",USA,"In-hospital based
+(Cohort study)",3841,56.2 ± 19.0,2125,869,,608,,Death,7
+Yang P et al.48,"01.01.20-
+31.03.20","Retrospective
+single-center observational","Chongqing Public
+Health Medical Center, Chongqing",China,"In-hospital based
+(Cohort study)",133,49.2,72,16,,22,6,"Severe   COVID-19:
+respiratory    distress or need ICU care",5
+Yuan B et al.49,-07.03.20,"Retrospective multi-center
+observational","Shenzhen Municipal Health Commission,
+Shenzhen",China,"In-hospital based
+(Case series)",417,"45.4
+±17.7",198,63,,32,28,"Severe   COVID-19: respiratory    distress
+or need ICU care",7
+Zhou F et al.50,"29.12.19-
+01.31.20","Retrospective multi-center
+observational","Two tertiary hospitals, Hubei",China,"In-hospital based
+(Cohort study)",191,"56
+(46.0-
+67.0)",119,58,,36,15,Death,7
+Zhu Z et al.51,"23.01.20-
+20.02.20","Retrospective single-center
+observational","Hwa Mei Hospital, Zhengzhou",China,"In-hospital based
+(Case series)",127,50.9 ± 15.3,45,31,,10,6,"Severe   COVID-19: respiratory    distress
+or need ICU care",6
